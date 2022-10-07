@@ -1,1 +1,1 @@
-A readme for 0x03-git repo
+This collaboration is hopefully now up to date
